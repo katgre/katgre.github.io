@@ -11,6 +11,10 @@ a:link {
   text-decoration: none;
 }
 
+.main-container{
+  margin: 1.5em;
+}
+
 a:active {
   text-decoration: lightblue;
 }
