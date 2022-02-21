@@ -47,6 +47,10 @@ a:visited {
   text-align: center
 }
 
+.introduction{
+  margin-top: 2.25em;
+}
+
 .container-image{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
